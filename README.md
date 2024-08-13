@@ -1,7 +1,7 @@
 <div align="center">
   <h2>DevOps Engineer</h2>
   <h3>Profile</h3>
-  - 서경대학교(2017~) 재학
+  <div>- 서경대학교(2017~) 재학</div>
   <h3>license</h3>
   - AWS Security Specialty
   - 정보처리기사
