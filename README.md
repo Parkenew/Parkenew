@@ -1,6 +1,6 @@
 ## DevOps Engineer
 ### Profile
-- 서경대학교(2017~) 재학
+- 서경대학교 컴퓨터공학과(2017~) 재학
 ### License
 - AWS Security Specialty
 - 정보처리기사
