@@ -4,9 +4,9 @@
   <div>- 서경대학교(2017~) 재학</div>
   <h3>license</h3>
   <div>
-  - AWS Security Specialty
-  - 정보처리기사
-  - 리눅스마스터 2급
+  - AWS Security Specialty \n
+  - 정보처리기사 \n 
+  - 리눅스마스터 2급 \n
   </div>
   <h3>Study Experience</h3>
   - 구름 쿠버네티스 전문가 양성과정 수료(2022.12 ~ 2023.04)
