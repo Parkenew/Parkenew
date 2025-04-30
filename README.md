@@ -15,6 +15,7 @@
 - Spring Boot, Spring Batch, Spring Data JPA, Spring Security
 - MySQL, MariaDB
 - ubuntu, CentOS
+- Apache Kafka
 - Elastic Stack
 - Docker, Kubernetes
 - AWS, Azure
