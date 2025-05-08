@@ -1,6 +1,6 @@
 ### Profile
 - 서경대학교 컴퓨터공학과(2017~) 재학
-### License
+### License 
 - AWS Certified Security - Specialty(SCS)
 - 정보처리기사
 - 리눅스마스터2급
