@@ -2,6 +2,7 @@
 - 서경대학교 컴퓨터공학과(2017~) 재학
 ### License 
 - AWS Certified Security - Specialty(SCS)
+- Elastic Certified Engineer
 - 정보처리기사
 - 리눅스마스터2급
 ### Study Experience
