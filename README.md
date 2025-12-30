@@ -12,7 +12,7 @@
 >### LLOYDK - Elasticsearch Engineer ( 25.02 ~ 현재 )
 > - **LG U+ 로그 모니터링 프로젝트**
 > 	- Elastic Stack 기반 데이터 파이프라인 구축 및 운영
->     - Elasticsearch 3-노드 클러스터 구축
+>     - Elasticsearch N-노드 클러스터 구축
 > 		- 로그 수집·정제 파이프라인 운영(일 30억+ 로그 이벤트 처리)
 > 		- 로그 파티셔닝 로직 개발 및 S3 적재
 > 		- 로그 파싱 로직 리팩토링 및 성능 최적화
